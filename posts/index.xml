@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vince Debes Blog</title>
+    <link>https://vdebes.github.io/posts/</link>
+    <description>Recent content in Posts on Vince Debes Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Feb 2020 19:20:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://vdebes.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Coding Dojo as Organizer</title>
+      <link>https://vdebes.github.io/posts/my-first-coding-dojo-as-organizer/</link>
+      <pubDate>Tue, 04 Feb 2020 19:20:15 +0100</pubDate>
+      
+      <guid>https://vdebes.github.io/posts/my-first-coding-dojo-as-organizer/</guid>
+      <description>My first coding dojo at work as an organizer Today I organized my first coding dojo at work with the help of a colleague. We both had almost no previous experience of this kind of event, I only had two as a participant (an event storming kata and a global day of code retreat). I «try to» practice TDD as much as possible but I am not a specialist either.</description>
+    </item>
+    
+  </channel>
+</rss>
